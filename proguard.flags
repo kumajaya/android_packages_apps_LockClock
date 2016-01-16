@@ -27,3 +27,4 @@
 -dontwarn org.apache.http.**
 -dontwarn android.support.**
 -dontwarn com.google.android.gms.**
+-dontwarn android.net.http.**
